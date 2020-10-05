@@ -3,7 +3,7 @@
 ---
 
 # A
-- ![Apoorv Negi](https://github.com/Nikzy7)
+- [Apoorv Negi](https://github.com/Nikzy7)
 
 # B
 
