@@ -34,9 +34,9 @@ class RemoveDuplicatesFromString
 	// Driver code 
 	public static void main(String[] args) 
 	{ 
-        Scanner sc=new Scanner(System.in);
-        String s=sc.nextLine();
-		char str[] = "geeksforgeeks".toCharArray(); 
+                Scanner sc=new Scanner(System.in);
+                String s=sc.nextLine();
+		char str[] = s.toCharArray(); 
 		int n = str.length; 
 		System.out.println(removeDuplicate(str, n)); 
 	} 
