@@ -41,6 +41,7 @@
 
 # R
 - [rykulkarni](https://github.com/rykulkarni)
+- [RadientBrain](https://github.com/RadientBrain)
 
 # S
 - [Sarthak Mishra](https://github.com/SarthakM7)
