@@ -21,6 +21,7 @@ If you know a popular algorithm, that you think can be beneficial for others, fo
 - Create a new branch
 - Create a clone on your local machine :computer:
 - Add the algorithm's code in the language specific folder. If you don't see a folder for your chosen language, create one for yourself. Make sure you keep your file's name similar to your algorithm's name.
+- Add your name and profile link to Contributors.md (Alphabetical order would be :heart:)
 - Commit the changes to your fork, then a create a sweet sweet PR
 
 ## Do note that
