@@ -38,7 +38,7 @@
 
 
 # R
-
+- [rykulkarni](https://github.com/rykulkarni)
 
 # S
 - [Sarthak Mishra](https://github.com/SarthakM7)
