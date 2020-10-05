@@ -1,7 +1,9 @@
 //Know that A* is a variation of Dijkstra's Algorithm.
 //A* iteratively selects the best route and attempts to see what the next best step is.
-  
-
+/*Helpful Links:
+https://www.baeldung.com/java-a-star-pathfinding
+https://www.youtube.com/watch?v=ySN5Wnu88nE
+*/
 import java.util.*;
 import java.io.*;
 public class AStar{
