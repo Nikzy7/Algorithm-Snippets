@@ -41,7 +41,7 @@
 
 
 # S
-
+- [Sarthak Mishra](https://github.com/SarthakM7)
 
 # T
 
