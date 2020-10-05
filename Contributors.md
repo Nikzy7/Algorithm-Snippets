@@ -12,6 +12,7 @@
 
 # D
 - [DIALLO Ciré](https://github.com/Cirediallo)
+- [Diego Sousa](https://github.com/DiSousaDev)
 
 # F
 
