@@ -17,6 +17,8 @@
 # H
 - [Harsh Udai](https://github.com/HarshUdai)
 
+# I 
+- [Ishaq](https://github.com/sonuishaq67)
 # J
 
 
