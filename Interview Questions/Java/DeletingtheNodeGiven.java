@@ -1,4 +1,4 @@
-class LinkedList { 
+class DeletingtheNodeGiven{ 
 	Node head; // head of the list 
 
 	class Node { 
@@ -46,7 +46,7 @@ class LinkedList {
 
 	public static void main(String[] args) 
 	{ 
-		LinkedList llist = new LinkedList(); 
+		DeletingtheNodeGiven llist = new DeletingtheNodeGiven(); 
 
 		/* Use push() to construct below list 
 		1->12->1->4->1 */
