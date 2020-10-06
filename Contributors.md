@@ -50,6 +50,7 @@
 
 # S
 - [Sarthak Mishra](https://github.com/SarthakM7)
+- [Sampah92](https://github.com/sampah92)
 
 # T
 
