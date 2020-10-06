@@ -5,6 +5,7 @@
 # A
 - [Apoorv Negi](https://github.com/Nikzy7)
 - [Arjun](https://github.com/avk29)
+- [Alessandro Arosio](https://github.com/AlessandroArosio)
 - [Alistair McKellar](https://github.com/CGAura)
 
 
