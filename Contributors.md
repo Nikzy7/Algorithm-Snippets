@@ -42,6 +42,7 @@
 
 # P
 - [Phoebe Lin](https://github.com/ebeohp)
+- [Praneetha Chebolu](https://github.com/praneethacl)
 
 # R
 - [rykulkarni](https://github.com/rykulkarni)
