@@ -6,6 +6,7 @@
 - [Apoorv Negi](https://github.com/Nikzy7)
 - [Arjun](https://github.com/avk29)
 - [Alessandro Arosio](https://github.com/AlessandroArosio)
+- [Alistair McKellar](https://github.com/CGAura)
 
 
 # B
@@ -39,7 +40,7 @@
 - [Nirmal Silwal](https://github.com/NirmalSilwal)
 
 # P
-
+- [Phoebe Lin](https://github.com/ebeohp)
 
 # R
 - [rykulkarni](https://github.com/rykulkarni)
