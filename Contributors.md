@@ -7,6 +7,7 @@
 - [Arjun](https://github.com/avk29)
 - [Alessandro Arosio](https://github.com/AlessandroArosio)
 - [Alistair McKellar](https://github.com/CGAura)
+- [anmol193](https://github.com/anmol193)
 
 
 # B
@@ -15,6 +16,7 @@
 # D
 - [DIALLO Ciré](https://github.com/Cirediallo)
 - [Diego Sousa](https://github.com/DiSousaDev)
+- [Dr-Badass](https://github.com/Dr-Badass)
 
 # F
 
@@ -24,6 +26,7 @@
 
 # I 
 - [Ishaq](https://github.com/sonuishaq67)
+
 # J
 
 
@@ -43,6 +46,7 @@
 # P
 - [Phoebe Lin](https://github.com/ebeohp)
 - [Praneetha Chebolu](https://github.com/praneethacl)
+- [Prashant](https://github.com/prashant-241)
 
 # R
 - [rykulkarni](https://github.com/rykulkarni)
@@ -60,7 +64,7 @@
 
 
 # Y
-
+- [Yash Chaudhary](https://github.com/busybee23)
 
 # Z
 
