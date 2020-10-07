@@ -32,6 +32,7 @@
 
 # K
 - [Kartikeya Gupta](https://github.com/kartikeyaGUPTA45)
+- [Kabir Jain](https://github.com/kkkkkabir)
 
 
 # L
