@@ -53,6 +53,7 @@
 - [rykulkarni](https://github.com/rykulkarni)
 - [RadientBrain](https://github.com/RadientBrain)
 - [Roshan Paswan](https://github.com/Roshanpaswan)
+- [Riddhima Singh](https://github.com/Riddhima23)
 
 # S
 - [Sarthak Mishra](https://github.com/SarthakM7)
