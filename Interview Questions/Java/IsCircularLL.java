@@ -2,7 +2,7 @@
 // linked list is circular
 import java.util.*;
 
-class IsCircular
+class IsCircularLL
 {
 	
 /* Link list Node */
