@@ -48,6 +48,7 @@
 - [Phoebe Lin](https://github.com/ebeohp)
 - [Praneetha Chebolu](https://github.com/praneethacl)
 - [Prashant](https://github.com/prashant-241)
+- [Pragyanshu Rai](https://github.com/Pragyanshu-rai)
 
 # R
 - [rykulkarni](https://github.com/rykulkarni)
