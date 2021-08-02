@@ -29,7 +29,7 @@ def power(base=3, exponent=13) -> float:
     while exponent > 0:
 
         # if the exponent bit is set then multiply the reult and base and then store it inside result
-        if exponent & 1:
+        if exponent & 1: 
             result *= base
 
         # keep incrementing the base by multiplying it with itself
